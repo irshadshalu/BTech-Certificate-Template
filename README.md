@@ -1,4 +1,5 @@
 # Certificate Template
+![Certificate](Certificate.png)
 
 ## Editor
 
