@@ -13,4 +13,4 @@
 
 ## Credits
 
-[Sidharth V](https://github.com/sidharthv96) for putting up the [original version](https://github.com/sidharthv96/BTech-Certificate-Template)
+[Sidharth V](https://github.com/sidharthv96) for putting up the [original version for seminar report](https://github.com/sidharthv96/BTech-Certificate-Template)
