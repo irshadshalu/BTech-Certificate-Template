@@ -1,17 +1,16 @@
 # Certificate Template
+
+## Sample Result
 ![Certificate](Certificate.png)
 
-## Editor
+## Instructions 
 
-Use [Inkscape](https://inkscape.org/en/release/) editor to edit the SVG file.
+1. Clone or download this repository.
+2. Install the fonts provided in Fonts Directory. (They are supported in Windows, Linux and Mac)
+3. Make sure your system have Times New Roman and sans-serif fonts installed by default (almost all system does)
+4. Download [Inkscape](https://inkscape.org/en/release/) editor (Available for Windows, Linux and Mac)
+5. Open Certificate.svg, make your changes, Save as PDF.
 
-## Fonts
+## Credits
 
-Title : [Apple chancery](https://www.myfonts.com/fonts/apple/chancery/)
-
-Certificate : [Chopin Script](https://www.dafont.com/chopin-script.font)
-
-Year : [Bitstream vera sans](https://www.fontsquirrel.com/fonts/bitstream-vera-sans)
-
-Teachers : [Optima](https://www.myfonts.com/fonts/linotype/optima/)
-
+[Sidharth V](https://github.com/sidharthv96) for putting up the [original version](https://github.com/sidharthv96/BTech-Certificate-Template)
